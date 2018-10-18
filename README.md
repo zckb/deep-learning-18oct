@@ -4,9 +4,9 @@ This repository contains slides from the Deep Learning Workshop with Microsoft a
 ## The presentation slides will be available shortly...Please come back soon!
 
 #### Introduction
-Kenji Takeda (Microsoft Research), Mark McManus (Microsoft), and Zion Brewer (Microsoft)
+- Kenji Takeda (Microsoft Research), Mark McManus (Microsoft), and Zion Brewer (Microsoft)
 #### Learn How Deep Learning Is Changing Industries	
-Craig Rhodes and Shakil Ahmed
+Craig Rhodes (NVIDIA) and Shakil Ahmed (NVIDIA)
 #### Deep Learning Demystified	
 Miguel Martinez (NVIDIA)
 #### Conditions for success in AI	
