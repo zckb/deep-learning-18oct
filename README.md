@@ -6,14 +6,14 @@ This repository contains slides from the Deep Learning Workshop with Microsoft a
 #### Introduction
 - Kenji Takeda (Microsoft Research), Mark McManus (Microsoft), and Zion Brewer (Microsoft)
 #### Learn How Deep Learning Is Changing Industries	
-Craig Rhodes (NVIDIA) and Shakil Ahmed (NVIDIA)
+- Craig Rhodes (NVIDIA) and Shakil Ahmed (NVIDIA)
 #### Deep Learning Demystified	
-Miguel Martinez (NVIDIA)
+- Miguel Martinez (NVIDIA)
 #### Conditions for success in AI	
-Simon McHattie (NVIDIA)
+- Simon McHattie (NVIDIA)
 #### Best Practices for Starting a Deep Learning Project incl. NGC on Azure	
-Miguel Martinez (NVIDIA)
+- Miguel Martinez (NVIDIA)
 #### Frameworks for Image Classification	
-Jonny Hancox (NVIDIA)
+- Jonny Hancox (NVIDIA)
 #### Using Deep Neural Networks (DNNs) for Object Detection
-Jonny Hancox (NVIDIA)
+- Jonny Hancox (NVIDIA)
