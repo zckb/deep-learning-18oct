@@ -15,6 +15,8 @@ This repository contains slides from the Deep Learning Workshop with Microsoft a
 - Miguel Martinez (NVIDIA)
 #### Frameworks for Image Classification	
 - Jonny Hancox (NVIDIA)
+#### Hackathon - Anomaly Detection
+- Raj Sharma (DWP)
 #### Using Deep Neural Networks (DNNs) for Object Detection
 - Jonny Hancox (NVIDIA)
 
